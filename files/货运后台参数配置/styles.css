@@ -75,29 +75,3 @@
   width:789px;
   word-wrap:break-word;
 }
-#u2_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:550px;
-  height:2px;
-}
-#u2 {
-  border-width:0px;
-  position:absolute;
-  left:80px;
-  top:325px;
-  width:549px;
-  height:1px;
-  color:#0081E4;
-}
-#u2_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
-  word-wrap:break-word;
-}

@@ -7820,7 +7820,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微软雅黑';
+  font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
   color:#999999;
@@ -7832,7 +7832,7 @@
   top:1px;
   width:27px;
   height:25px;
-  font-family:'微软雅黑';
+  font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
   color:#999999;
@@ -7950,7 +7950,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微软雅黑';
+  font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
   color:#999999;
@@ -7962,7 +7962,7 @@
   top:1px;
   width:14px;
   height:25px;
-  font-family:'微软雅黑';
+  font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
   color:#999999;
@@ -9309,9 +9309,9 @@
   left:50%;
   margin-left:-263.5px;
   top:50%;
-  margin-top:-346px;
+  margin-top:-297.5px;
   width:527px;
-  height:692px;
+  height:595px;
   overflow:hidden;
   visibility:hidden;
 }
@@ -9321,11 +9321,11 @@
   left:0px;
   top:0px;
   width:527px;
-  height:692px;
-  overflow:auto;
-  -webkit-overflow-scrolling:touch;
+  height:595px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
   background-image:none;
 }
 #u3439_state0_content {
@@ -9377,7 +9377,7 @@
   left:0px;
   top:0px;
   width:527px;
-  height:536px;
+  height:544px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   border:none;
@@ -9392,7 +9392,7 @@
   left:1px;
   top:49px;
   width:527px;
-  height:536px;
+  height:544px;
 }
 #u3441_text {
   border-width:0px;
@@ -10681,9 +10681,9 @@
   left:50%;
   margin-left:-263.5px;
   top:50%;
-  margin-top:-338px;
+  margin-top:-288px;
   width:527px;
-  height:676px;
+  height:576px;
   overflow:hidden;
   visibility:hidden;
 }
@@ -10693,11 +10693,11 @@
   left:0px;
   top:0px;
   width:527px;
-  height:676px;
-  overflow:auto;
-  -webkit-overflow-scrolling:touch;
+  height:576px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
   background-image:none;
 }
 #u3483_state0_content {
@@ -10749,7 +10749,7 @@
   left:0px;
   top:0px;
   width:527px;
-  height:536px;
+  height:524px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   border:none;
@@ -10764,7 +10764,7 @@
   left:1px;
   top:49px;
   width:527px;
-  height:536px;
+  height:524px;
 }
 #u3485_text {
   border-width:0px;
